@@ -1,0 +1,5 @@
+from tkinter import *
+app = Tk()
+app.title("bare code practice innit")
+app.geometry("200x500")
+
